@@ -1,6 +1,6 @@
 # 925-4FSC0PF001-Summative
 
-## If you're here, you failed the factorize Task and took and shortcut, if not speak to your teacher
+## If you're here, you failed the Nake it work Task and took and shortcut, if not speak to your teacher
 
 The program is a "Duck Shooting Game".
 You can shoot ducks clicking the mouse
